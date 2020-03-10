@@ -1,0 +1,10 @@
+---
+title: "MOWNIT lab1"
+author: "Karol Hamielec"
+date: "3/10/2020"
+output: pdf_document
+---
+
+```{r}
+plot(zad1_report$V1, type="l")
+```
