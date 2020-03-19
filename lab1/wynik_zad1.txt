@@ -1,0 +1,19 @@
+sumowanie normalne: 
+na koncu 2175874.000000
+bezwzgledny: 175874.000000
+wzgledny: 8.793699%
+0,27s user 0,04s system 99% cpu 0,306 total
+
+
+sumowanie rekurencyjne: 
+na koncu 2000000.000000
+bezwzgledny: 0.000000
+wzgledny: 0.000000%
+0,33s user 0,03s system 99% cpu 0,363 total
+
+
+sumowanie Kahana: 
+na koncu 1999999.875000
+bezwzgledny: 0.125000
+wzgledny: 0.000006%
+0,33s user 0,00s system 99% cpu 0,332 total
