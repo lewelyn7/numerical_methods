@@ -1,73 +1,73 @@
-zad2.1 
+zad3.1.1 
 n: 50 sum: 0.5
-zad2.2 
+zad3.1.2 
 n: 50 sum: 0.5
-zad2.4 
+zad3.4.1 
 n: 50 sum: 0.5
 
-zad2.1 
+zad3.1.1 
 n: 100 sum: 0.5
-zad2.2 
+zad3.1.2 
 n: 100 sum: 0.5
-zad2.4 
+zad3.4.1 
 n: 100 sum: 0.5
 
-zad2.1 
+zad3.1.1 
 n: 200 sum: 0.5
-zad2.2 
+zad3.1.2 
 n: 200 sum: 0.5
-zad2.4 
+zad3.4.1 
 n: 200 sum: 0.5
 
-zad2.1 
+zad3.1.1 
 n: 500 sum: 0.5
-zad2.2 
+zad3.1.2 
 n: 500 sum: 0.5
-zad2.4 
+zad3.4.1 
 n: 500 sum: 0.5
 
-zad2.1 
+zad3.1.1 
 n: 800 sum: 0.5
-zad2.2 
+zad3.1.2 
 n: 800 sum: 0.5
-zad2.4 
+zad3.4.1 
 n: 800 sum: 0.5
 
 
 -----------DOUBLE-------------
 
-zad2.3.1 
+zad3.2.1 
 n: 50 sum: 0.5
-zad2.3.2 
+zad3.2.2 
 n: 50 sum: 0.5
-zad2.4 
+zad3.4.2 
 n: 50 sum: 0.5
 
-zad2.3.1 
+zad3.2.1 
 n: 100 sum: 0.5
-zad2.3.2 
+zad3.2.2 
 n: 100 sum: 0.5
-zad2.4 
+zad3.4.2 
 n: 100 sum: 0.5
 
-zad2.3.1 
+zad3.2.1 
 n: 200 sum: 0.5
-zad2.3.2 
+zad3.2.2 
 n: 200 sum: 0.5
-zad2.4 
+zad3.4.2 
 n: 200 sum: 0.5
 
-zad2.3.1 
+zad3.2.1 
 n: 500 sum: 0.5
-zad2.3.2 
+zad3.2.2 
 n: 500 sum: 0.5
-zad2.4 
+zad3.4.2 
 n: 500 sum: 0.5
 
-zad2.3.1 
+zad3.2.1 
 n: 800 sum: 0.5
-zad2.3.2 
+zad3.2.2 
 n: 800 sum: 0.5
-zad2.4 
+zad3.4.2 
 n: 800 sum: 0.5
 

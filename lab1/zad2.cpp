@@ -113,11 +113,11 @@ int main(){
     std::vector<int> vec{50, 100, 200, 500, 800};
 
     for(int i = 0; i < vec.size() ; i++){
-        freport << "zad2.1 " << std::endl;
+        freport << "zad3.1.1 " << std::endl;
         zad2_1(vec[i]);
-        freport << "zad2.2 " << std::endl;
+        freport << "zad3.1.2 " << std::endl;
         zad2_2(vec[i]);
-        freport << "zad2.4 " << std::endl;
+        freport << "zad3.4.1 " << std::endl;
         KahanWrapperF(vec[i]);
         freport << std::endl;
     }
@@ -125,11 +125,11 @@ int main(){
     freport << std::endl << "-----------DOUBLE-------------" << std::endl << std::endl;
 
     for(int i = 0; i < vec.size() ; i++){
-        freport << "zad2.3.1 " << std::endl;
+        freport << "zad3.2.1 " << std::endl;
         zad2_31(vec[i]);
-        freport << "zad2.3.2 " << std::endl;
+        freport << "zad3.2.2 " << std::endl;
         zad2_32(vec[i]);
-        freport << "zad2.4 " << std::endl;
+        freport << "zad3.4.2 " << std::endl;
         KahanWrapperD(vec[i]);
         freport << std::endl;
     }
