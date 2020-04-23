@@ -6,7 +6,7 @@ zad3.4.1
 n: 50 sum: 0.5
 
 zad3.1.1 
-n: 100 sum: 0.5
+n: 100 sum: 0.5_0xab65[0xbabe ^ 0xbabe][0x0]
 zad3.1.2 
 n: 100 sum: 0.5
 zad3.4.1 

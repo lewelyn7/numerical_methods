@@ -1,0 +1,74 @@
+FUNCTON: 0
+
+epsilon: 10^-7
+result: 4.730040761 steps: 24
+
+epsilon: 10^-15
+result: 4.730040745 steps: 51
+
+FUNCTON: 1
+
+epsilon: 10^-7
+result: 0.8603336024 steps: 24
+
+epsilon: 10^-15
+result: 0.860333589 steps: 51
+
+FUNCTON: 2
+
+epsilon: 10^-7
+result: 1.829383612 steps: 23
+
+epsilon: 10^-15
+result: 1.829383602 steps: 51
+
+-----------NEWTON METHOD--------------
+FUNCTION: 0
+
+epsilon: 10^-7
+result: 4.730040745 steps: 6
+
+epsilon: 10^-15
+result: 4.730040745 steps: 8
+
+FUNCTION: 1
+
+epsilon: 10^-7
+result: 1.570796327 steps: 1
+
+epsilon: 10^-15
+result: 3.425618459 steps: 38
+
+FUNCTION: 2
+
+epsilon: 10^-7
+result: 1.829383602 steps: 6
+
+epsilon: 10^-15
+result: 1.829383602 steps: 7
+
+-----------SECANT METHOD--------------
+FUNCTION: 0
+
+epsilon: 10^-7
+result: 4.730040744 steps: 4
+
+epsilon: 10^-15
+result: 4.730040745 steps: 6
+
+FUNCTION: 1
+
+epsilon: 10^-7
+result: -nan steps: 1
+
+epsilon: 10^-15
+result: -nan steps: 1
+
+FUNCTION: 2
+
+epsilon: 10^-7
+result: 1.829383593 steps: 9
+
+epsilon: 10^-15
+result: 1.829383602 steps: 11
+
