@@ -1,0 +1,14 @@
+Aproksymacja funkcji f2, liczba punktów dyskretyzacji: 2 błąd średni: 3.29294 maksymalny błąd: 9.04485
+Aproksymacja funkcji f2, liczba punktów dyskretyzacji: 4 błąd średni: 3.11305 maksymalny błąd: 11.765
+Aproksymacja funkcji f2, liczba punktów dyskretyzacji: 6 błąd średni: 4.08478 maksymalny błąd: 46.375
+Aproksymacja funkcji f2, liczba punktów dyskretyzacji: 8 błąd średni: 6.35465 maksymalny błąd: 116.797
+Aproksymacja funkcji f2, liczba punktów dyskretyzacji: 10 błąd średni: 31.2769 maksymalny błąd: 914.238
+Aproksymacja funkcji f2, liczba punktów dyskretyzacji: 12 błąd średni: 7.94333 maksymalny błąd: 314.531
+Aproksymacja funkcji f2, liczba punktów dyskretyzacji: 14 błąd średni: 1.38467 maksymalny błąd: 15.1504
+Aproksymacja funkcji f2, liczba punktów dyskretyzacji: 16 błąd średni: 6.24701 maksymalny błąd: 275.916
+Aproksymacja funkcji f2, liczba punktów dyskretyzacji: 18 błąd średni: 0.6101 maksymalny błąd: 6.15589
+Aproksymacja funkcji f2, liczba punktów dyskretyzacji: 20 błąd średni: 4.56902 maksymalny błąd: 268.829
+Aproksymacja funkcji f2, liczba punktów dyskretyzacji: 22 błąd średni: 0.442243 maksymalny błąd: 5.58223
+Aproksymacja funkcji f2, liczba punktów dyskretyzacji: 24 błąd średni: 4.56253 maksymalny błąd: 323.392
+Aproksymacja funkcji f2, liczba punktów dyskretyzacji: 26 błąd średni: 3.09564 maksymalny błąd: 224.175
+Aproksymacja funkcji f2, liczba punktów dyskretyzacji: 28 błąd średni: 0.509276 maksymalny błąd: 8.81665

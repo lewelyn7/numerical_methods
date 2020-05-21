@@ -1,0 +1,7 @@
+Aproksymacja funkcji f1, liczba punktów dyskretyzacji: 2 błąd średni: 0.0760033 maksymalny błąd: 0.195846
+Aproksymacja funkcji f1, liczba punktów dyskretyzacji: 6 błąd średni: 0.0396225 maksymalny błąd: 0.12827
+Aproksymacja funkcji f1, liczba punktów dyskretyzacji: 10 błąd średni: 0.0307814 maksymalny błąd: 0.0974175
+Aproksymacja funkcji f1, liczba punktów dyskretyzacji: 14 błąd średni: 0.0199011 maksymalny błąd: 0.0605348
+Aproksymacja funkcji f1, liczba punktów dyskretyzacji: 18 błąd średni: 0.0203732 maksymalny błąd: 0.0559774
+Aproksymacja funkcji f1, liczba punktów dyskretyzacji: 22 błąd średni: 0.0208635 maksymalny błąd: 0.0549134
+Aproksymacja funkcji f1, liczba punktów dyskretyzacji: 26 błąd średni: 0.0258343 maksymalny błąd: 0.0651713

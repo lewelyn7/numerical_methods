@@ -5,6 +5,7 @@ date: "4/20/2020"
 output: html_document
 ---
 
+
 ## zad2
 
 Funkcja testowa: $f(x) = \sin(\frac{kx}{\pi})e^\frac{-mx}{\pi}$
